@@ -1,0 +1,5 @@
+obj
+*.suo
+*.exe.config
+*.pdb
+bin/Debug
